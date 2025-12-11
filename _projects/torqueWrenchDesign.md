@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Design
 description: Advanced CAD Project
-technologies: [Autodesk Fusion] [Ansys]
+technologies: [Autodesk Fusion] [Ansys Mechanical] [MATLAB]
 image: ({{ "/assets/images/wrenchForce.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 ---
 
