@@ -1,11 +1,12 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: Torque Wrench Design
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+technologies: [Autodesk Fusion] [Ansys]
+image: 
 ---
 
+https://drive.google.com/file/d/1HIGF1UbwLYzl7XzEUDN9wF9KfR29hQBs/view?usp=share_link
 For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
