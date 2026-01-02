@@ -54,7 +54,7 @@ Aspiring engineering student with a strong foundation in math and physics. Passi
 
 #### Work Experience
 - **Chipotle Mexican Grill - Team Member**  
-  [May, 2023] - [Aug, 2024]  
+  May, 2023 - Aug, 2024 
   - Prepared food to be served for the day while adhering to food safety guidelines
   - Provided friendly customer service while making customers’ orders and working the register
   - Handled customer transactions with accuracy and efficiency
