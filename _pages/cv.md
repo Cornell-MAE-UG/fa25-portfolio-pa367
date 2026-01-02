@@ -5,66 +5,67 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/ParkerAshworthResume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [pa367@cornell.edu](mailto:pa367D@cornell.edu) | | | **Phone:** +585 455 8788
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in math and physics. Passionate about and excited to apply my knowledge in real-world applications and gain career experience.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.5/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **High School Name**  
+  *International Baccalaureate*  
+  Graduation: May, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, Excel
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Laser Cutting, Machine Shop
+- **Other:** Wilderness First Responder
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Product Design**:  
+  - Worked on a four-person team to create a novel device to help people organize their work materials 
+  - Iteratively designed and modeled mechanisms and final product in Autodesk Fusion 360
+  - Fabricated the device via 3D printing and laser-cut acrylic and presented the final product to an audience
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+
+- **FIRST Robotics**:  
+  - Designed and built a robot to compete in the New York FIRST Tech Challenge State Championship
+  - Created CAD designs for 3D printing custom parts and outreach materials as well as modeling designs of robots
+  - Led both community and school-wide outreach to promote robotics and inspire the next generation of students
+  - Managed various subteams including mechanical, software, business, CAD, and led meetings between subteams
+
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Chipotle Mexican Grill - Team Member**  
+  [May, 2023] - [Aug, 2024]  
+  - Prepared food to be served for the day while adhering to food safety guidelines
+  - Provided friendly customer service while making customers’ orders and working the register
+  - Handled customer transactions with accuracy and efficiency
+  - Maintained a clean and organized work environment 
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of The Cornell Buds Ultimate Frisbee
+- Backpacking Guide for Cornell Outdoor Odyssey
 
 ---
 
